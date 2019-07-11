@@ -8,6 +8,7 @@ import android.os.PowerManager;
 
 /**
  * Created by Andreas Schrade on 19.02.2015.
+ * Modified by Benoit Favre
  */
 public class AppContext extends Application {
 

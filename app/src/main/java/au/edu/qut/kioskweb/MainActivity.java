@@ -26,6 +26,10 @@ import java.util.List;
 import au.edu.qut.kiosk.R;
 
 
+/**
+ * Created by Andreas Schrade on 19.02.2015.
+ * Modified by Benoit Favre
+ */
 public class MainActivity extends ActionBarActivity {
 
     private final String TAG = "KioskWeb";

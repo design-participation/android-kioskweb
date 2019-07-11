@@ -5,6 +5,10 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.PowerManager;
 
+/**
+ * Created by Andreas Schrade on 19.02.2015.
+ * Modified by Benoit Favre
+ */
 public class OnScreenOffReceiver extends BroadcastReceiver {
 
     @Override
